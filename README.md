@@ -6,7 +6,7 @@
 
 Install dependencies:
 ```
-npm i -D eslint @riadyounes/eslint-config
+npm i -D eslint eslint-config-next @riadyounes/eslint-config
 ```
 Inside `.eslintrc.json`
 ```

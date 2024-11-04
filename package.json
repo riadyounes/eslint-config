@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "riadyounes/eslint-config"
+    "url": "git+https://github.com/riadyounes/eslint-config.git"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
